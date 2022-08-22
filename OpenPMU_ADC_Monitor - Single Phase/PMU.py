@@ -47,7 +47,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 see :ref:`xml-exchange-format`
 """
-from __future__ import print_function
 import socket, base64
 import numpy as np
 from lxml import etree
